@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979883010766",
+    "project_id": "apptracnghiem-5511c",
+    "storage_bucket": "apptracnghiem-5511c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979883010766:android:102c332e52a70a1cb83e9f",
+        "android_client_info": {
+          "package_name": "com.example.apptracnghiem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYS1A6RdB4yLrOa__AVFf6VTkiTt0Qxd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
